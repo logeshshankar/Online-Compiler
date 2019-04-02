@@ -1,0 +1,18 @@
+// Not valid metadata
+{ "license" :
+  { "type" : "ISC"
+  , "url" : "https://opensource.org/licenses/ISC"
+  }
+}
+
+// Not valid metadata
+{ "licenses" :
+  [
+    { "type": "MIT"
+    , "url": "https://www.opensource.org/licenses/mit-license.php"
+    }
+  , { "type": "Apache-2.0"
+    , "url": "https://opensource.org/licenses/apache2.0.php"
+    }
+  ]
+}
